@@ -796,7 +796,9 @@ footer p em {
 
 
 
-
+#header-e1 {float: left;}
+#header-e2 {overflow: hidden;}
+#header-e3 {float: right;}
 
 
 .page-heading {

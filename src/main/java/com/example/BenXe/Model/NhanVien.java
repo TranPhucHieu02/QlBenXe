@@ -2,7 +2,6 @@ package com.example.BenXe.Model;
 
 import jakarta.persistence.*;
 
-import java.time.Year;
 import java.util.List;
 
 @Entity
